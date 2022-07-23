@@ -1,0 +1,124 @@
+@media (min-width:375px) and (max-width:576px){
+    .container{
+        width: 92%;
+    }
+    .header-div{
+        flex-wrap: wrap;
+    }
+    .header-div h1{
+        margin: auto;
+    }
+    #header-ul{
+        width: 100%;
+        margin-top: 6%;
+    }
+    #header-ul li{
+        margin: 0 1%;
+    }
+    .header-div-bottom{
+       flex-wrap: wrap;
+    }
+    .header-span{
+        width: 100%;
+        margin-bottom: 3%;
+    }
+    .header-span i{
+        padding: 2% 1% 2.2% 4%;
+    }
+    .header-span p{
+        width: 100%;
+    }
+    .left-aside{
+        width: 100%;
+    }
+    .left-aside-firstDiv{
+        flex-wrap: wrap;
+    }
+    .left-aside-firstDiv h1{
+        width: 100%;
+        text-align: center;
+        margin-bottom: 2%;
+    }
+    .left-aside-ul{
+        width: 100%;
+    }
+    .left-aside-ul li{
+        width: 8%;
+    }
+    .flex-wrap{
+        flex-wrap: wrap;
+    }
+    .card1{
+        width: 100%;
+    }
+    .card1 img{
+        width: 100%;
+    }
+    .card2{
+        width: 100%;
+    }
+    .left-aside-cards-custom{
+        width: 100%;
+    }
+    .cards-custom{
+        width: 100%;
+    }
+    .right-aside{
+        width: 100%;
+    }
+    .space-img{
+        width: 100%;
+    }
+    .middle-aside-div{
+        width: 100%;
+        margin-bottom: 1%;
+    }
+    .middle-aside-div2{
+        width: 100%;
+        margin-bottom: 1%;
+    }
+    .middle-aside-div3{
+        width: 100%;
+        margin-bottom: 1%;
+    }
+    .last-left-aside{
+        width: 100%;
+    }
+    .last-left-cards img{
+        width: 100%;
+    }
+    .last-left-cards-div{
+        width: 100%;
+        padding: 15px 5%;
+    }
+    .last-left-cards-div h2{
+        font-size: 19px;
+    }
+    .last-left-cards-p1{
+        width: 100%;
+        font-size: 15px;
+    }
+    .last-left-cards-p2{
+        font-size: 15px;
+    }
+    .last-right-aside{
+        width: 100%;
+    }
+    .last-cards{
+        margin-bottom: 2%;
+    }
+    #load-btn{
+        margin: 7% 0 7% 37%;
+    }
+    .footer-text-div{
+        width: 100%;
+    }
+    .footer-ul-div{
+        width: 100%;
+        margin: 6% 0;
+    }
+    .footer-input-div{
+        margin: 6% 0 10% 0;
+        width: 100%;
+    }
+}
